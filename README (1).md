@@ -20,3 +20,9 @@ As informações sobre os atrativos e o roteiro são baseadas no [Destino Cabre�
 A imagem de destaque mostra a Estrada dos Romeiros e tem crédito de Erich Sacco/iStock, via [Catraca Livre](https://catracalivre.com.br/viagem-livre/cidade-no-interior-de-sp-se-destaca-por-suas-belezas-naturais-tranquilidade-e-bom-custo-de-vida/). Para fotos com licença comercial ou distribuição independente, obtenha autorização do respectivo titular antes de publicar.
 
 Informações sobre horários, reservas e condições de acesso podem mudar; confirme diretamente com os locais antes da visita. Os atalhos do Google Maps pesquisam os locais e não calculam uma rota validada. Para publicação na Vercel, mantenha a estrutura da pasta e publique como site estático; as fotografias usam um caminho relativo dentro de `images/`.
+
+Integrantes:
+Bruno Lopes
+Enzo Bruni
+Luiz Henrique 
+Otavio Costa
